@@ -35,5 +35,8 @@ public class WrapperClass {
 
         System.out.println(a.booleanValue());
         System.out.println(e.length());
+
+        //unboxing
+            if(a==true) System.out.println("true");
     }
 }
